@@ -1,7 +1,7 @@
 # 音乐风格分类
 
 #### 介绍
-keras+tensorflow框架，构建音乐风格分类的CNN模型。
+python36+keras+tensorflow框架，构建音乐风格分类的CNN模型。
 公开数据集为GTZAN。
 
 #### 分数
